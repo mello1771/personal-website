@@ -1,0 +1,118 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: #F2D5F8;
+}
+
+@font-face {
+  font-family: "chopin-script";
+  src: url('assets/ChopinScript.ttf');
+}
+
+
+/* STYLE TEXT */
+
+#profile {
+  text-align: left;
+}
+
+#german {
+  text-align: center;
+}
+
+#piano {
+  text-align: center;
+}
+
+#mun {
+  text-align: center;
+}
+
+#pfp {
+  max-width: 20%;
+  border-radius: 35%;
+}
+
+ul {
+  list-style-type: none;
+  background-color: #573E65;
+  overflow: hidden;
+  padding: 10px;
+  margin-top: 10px;
+  margin-botton: 10px;
+  text-align: center;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: #F2D5F8;
+  padding: 20px;
+}
+
+li a:hover {
+  background-color: #49465D;
+}
+
+main {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: 2%;
+}
+
+h1 {
+  color: #49465D;
+  font-family: "chopin-script";
+  font-size: 60px;
+  text-align: center;
+  font-weight: 400;
+  padding-top: 15px;
+}
+
+h3 {
+  color: #573E65;
+  font-family: "Helvetica", sans-serif;
+  font-style: italic;
+  font-size: 25px;
+  font-weight: 300;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+p {
+  color: #49465D;
+  font-family: "Georgia", serif;
+  font-style: italic;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+img {
+  max-width: 30%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #573E65;
+}
+
+.port {
+  max-width: 25%;
+}
+
+
+
+
+/* STYLE IMAGES */
+
+/* STYLE NAV BAR */
