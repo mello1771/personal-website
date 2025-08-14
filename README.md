@@ -10,3 +10,5 @@ What I struggled with: I struggled with formatting the website because I didn't 
 What I learned: This is the first website I ever made, so I learned a lot about the basics of HTML and CSS.
 
 This repo doesn't have many commits because I made this in replit and didn't create any commits while making it.
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
